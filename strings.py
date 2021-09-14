@@ -70,3 +70,4 @@ a= (Question_1.count(user))
 print(f'{a} found')
 word= Question_1.replace(user, user.upper())
 print(word)
+
