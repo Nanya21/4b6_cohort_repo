@@ -3,11 +3,11 @@
 # print(newlist)
 
 
-# samplelist=['Red', 'Green', 'white', 'Black', 'pink', 'yellow']
-# first=samplelist.pop(0)
-# last= samplelist.pop(-2)
-# last_=samplelist.pop(-1)
-# print(samplelist)
+samplelist=['Red', 'Green', 'white', 'Black', 'pink', 'yellow']
+first=samplelist.pop(0)
+last= samplelist.pop(-2)
+last_=samplelist.pop(-1)
+print(samplelist)
 
 
 # colorlist=['Red', 'Green', 'white','Yellow']
