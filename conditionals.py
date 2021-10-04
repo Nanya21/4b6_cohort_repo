@@ -65,14 +65,14 @@
 # else:
 #     print('E be like say you no win. sorry')
 
-import time
-import random
+# import time
+# import random
 
 # mercyville= input('Welcome to Mercyville, \nRules are pretty simple, All you need do is choose between the following options:,\nRock, paper or scissors\nI know right*winks*, \n Kindly pick your username:')
 # mercyville2=input('kindly choose your option: ').title()
 
 # gamelist=['Rock','Paper','Scissors']
-
+# random.shuffle(gamelist)
 # com_choice=random.choice(gamelist)
 # print(com_choice)
 
@@ -101,4 +101,4 @@ import random
 #     print('incorrect input, pls choose between Rock, Paper and Scissors')
     
 # print(f"Hey {mercyville}, \nWould you like to play again?\n")
-# answer=input('Yes or No')
+answer=input('Yes or No')
