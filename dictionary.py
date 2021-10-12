@@ -6,9 +6,11 @@
 # mydiction['Country']='Japan'
 # print(mydiction)
 
-mydict={'name':'Jeny', 'courses' :['Data science', 'Backend'], 'scores': {'Data science':20, 'Backend': 15.7}}
+# mydict={'name':'Jeny', 'courses' :['Data science', 'Backend'], 'scores': {'Data science':20, 'Backend': 15.7}}
 # user= input('what course are you studying:' )
 # user2= input('what was your score:' )
+# mydic=[('courses',user),('scores',user2)]
+# mydict.update(mydic)
 # mydict['courses'].append(user)
 # mydict['scores'][user]=user2
 # print(mydict)
@@ -38,15 +40,17 @@ mydict={'name':'Jeny', 'courses' :['Data science', 'Backend'], 'scores': {'Data 
 # }
 # sampleDict['emp3']['Salary']=8500
 # print(sampleDict)
-
-users={}
-# user1=input('what is your first name:')
-# user2=input('what is your last name:')
-# usernames=user1[:2]+user2[-2:]
-# users[usernames]={}
-# users[usernames].update({'Firstname':user1})
-# users[usernames].update({'Lastname':user2})
-# print(users)
+# s=True
+# while s:
+#     users={}
+#     user1=input('what is your first name:')
+#     user2=input('what is your last name:')
+#     usernames=user1[:2]+user2[-2:]
+#     users[usernames]={}
+#     a=users[usernames].update({'Firstname':user1})
+#     b=users[usernames].update({'Lastname':user2})
+#     users.update[a][b]
+#     print(users)
 
 # blist= [2,2,4,6,7,2,4,4,3,6,2,1]
 # newlist= set(blist)
